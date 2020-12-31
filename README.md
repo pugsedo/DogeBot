@@ -9,13 +9,13 @@ A fun chat bot made for Discord by me. Includes custom made currency, fun comman
 
 # Documentation:
 **status check commands:**
-   bork ping (returns ping status of bot)
+1. bork ping (returns ping status of bot)
    
 **fun commands:**
-   bork 8ball [question] (returns a random answer to the author of the message)
-   bork bruh (returns message)
-   bork image (returns random image of cute dog)
+1. bork 8ball [question] (returns a random answer to the author of the message)
+2. bork bruh (returns message)
+3. bork image (returns random image of cute dog)
    
 **currency commands:**
-   bork bal (optional: person) (returns your/person's balance)
-   bork box (runs a guessing game, if you win you get 40 to 80 DogeCoins)
+1. bork bal (optional: person) (returns your/person's balance)
+2. bork box (runs a guessing game, if you win you get 40 to 80 DogeCoins)
