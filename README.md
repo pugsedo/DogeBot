@@ -17,4 +17,5 @@ A fun chat bot made for Discord by me. Includes custom made currency, fun comman
    
 **currency commands:**
 1. bork bal (optional: person) (returns your/person's balance)
-2. bork box (runs a guessing game, if you win you get 40 to 80 DogeCoins)
+2. bork boxes (runs a guessing game, if you win you get 40 to 80 DogeCoins)
+3. bork ranks (returns top 10 ranks of people with the most DogeCoins on the server.)
