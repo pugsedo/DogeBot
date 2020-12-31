@@ -2,10 +2,9 @@
 A fun chat bot made for Discord by me. Includes custom made currency, fun commands, and admin commands.
 
 # How to setup:
-1. Download the required files to make the bot work.
-2. In 'bot.py', go to the variable token and change it to the token of your own server.
-3. (optional:) go to the 'admin commands' section, and change the required permissions for access to each command.
-4. Host the project on a desired server/computer and run 'bot.py'.
+1. copy paste invite bot link (https://discord.com/api/oauth2/authorize?client_id=791768194485846036&permissions=8&scope=bot)
+2. pick the server you want to allow
+3. click 'authorize'
 
 # Documentation:
 **status check commands:**
