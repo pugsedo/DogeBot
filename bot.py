@@ -10,7 +10,7 @@ import json
 client = commands.Bot(command_prefix = 'bork ')
 
 botName = 'DogeBot'
-token = 'NzkxNzY4MTk0NDg1ODQ2MDM2.X-T9lw.sd-3yQXMkaEQOkGp1INcwTHlg5I'
+token = '**************************'
 status = '[bork]'
 
 ## ***EVENTS:***
